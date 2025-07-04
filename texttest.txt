@@ -1,1 +1,5 @@
 I am using GIT, and I am back.
+
+
+
+Did I merge correctly.
